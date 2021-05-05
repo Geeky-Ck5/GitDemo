@@ -1,1 +1,3 @@
-1. Create a new text file with your username as the filename and push same to the repos
+1. Git clone the repository https://github.com/Geeky-Ck5/GitDemo.git
+2. Create a new text file with your username as the filename and push same to the repos
+3. Update the existing instruction.txt file by adding a new line with your name and date e.g. KAVISH 05052021
